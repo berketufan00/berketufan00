@@ -38,11 +38,17 @@ Microcontroller-based automation projects
 
 ## 🧰 Tech Stack
 
-- ESP32 / Arduino
-- Python / JavaScript / C++
-- MQTT / WebSockets
-- HTML / CSS / JS
+### Embedded
+ESP32 • Arduino • STM32
 
+### Backend
+Python • Node.js
+
+### Communication
+MQTT • WebSockets • HTTP
+
+### Frontend
+HTML • CSS • JavaScript
 ---
 
 ## 📊 GitHub Stats
