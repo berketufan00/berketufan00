@@ -60,7 +60,7 @@ Microcontroller-based automation and electronics control.
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=dark)
+![Stats](https://github-readme-stats.vercel.app/api?username=berketufan00&show_icons=true&theme=dark)
 
 ---
 
@@ -73,4 +73,4 @@ Microcontroller-based automation and electronics control.
 
 ## 📫 Contact
 
-- GitHub: https://github.com/USERNAME
+- GitHub: https://github.com/berketufan00
