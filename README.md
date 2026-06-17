@@ -39,7 +39,7 @@ Microcontroller-based automation projects
 ## 🧰 Tech Stack
 
 ### Embedded
-ESP32 • Arduino • STM32
+ESP32 • Arduino
 
 ### Backend
 Python • Node.js
